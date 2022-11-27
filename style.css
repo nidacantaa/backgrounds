@@ -1,0 +1,4 @@
+html {
+  background: repeating-conic-gradient(transparent 0% 75%, #160c28 0% 50%) 2em 2em, radial-gradient(closest-side, transparent calc(100% - 1px), #160c28) 2em 2em, linear-gradient(135deg, #d1dfd6 50%, #efab48 0);
+  background-size: 8em 8em, 4em 4em;
+}
